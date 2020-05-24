@@ -1,5 +1,5 @@
 # probability-simulations
-This repo is about solving some well-known textbook probability problems using simulations
+Some well known probability problems solved using simulations
 
 ## Problem 1: Banach Matchbox Problem
 A person carries two matchboxes at all times: one in his left pocket and one in
