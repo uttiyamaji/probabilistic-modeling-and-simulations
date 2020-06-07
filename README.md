@@ -1,4 +1,4 @@
-# probability-simulations
+# simulationg classical probability problems
 Some well known probability problems solved using simulations
 
 ## Problem 1: Banach Matchbox Problem
