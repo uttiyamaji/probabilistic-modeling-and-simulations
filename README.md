@@ -1,4 +1,4 @@
-Some well known probability problems solved using simulations
+# Some well known probability problems solved using simulations
 
 ## Problem 1: Banach Matchbox Problem
 A person carries two matchboxes at all times: one in his left pocket and one in
@@ -28,3 +28,22 @@ memory is so short that he forgets that he has already visited A. Next time he
 chooses again between others capitals, and so on. Find the expected no. of 
 journeys required to visit all the cities.
 
+# Studying curse of Dimensionality
+## (a) 
+Draw a sample of size 20 from Nd(0d; Id), and compute the length of each of the
+vectors. Estimate the distribution using a kernel density estimate with an adaptive choice
+of h, and plot it for d = 2; 5; 10; 20; 50; 100; 200 and 500. Is the mean 0d a representative
+summary of the distribution in high dimensions?
+## (b) 
+Consider a sample of size 3 from Nd(0d; Id), say X1, X2 and X3. Take d =
+2; 5; 10; 20; 50; 100; 200 and 500. Compute the angle \(Xi;Xj) for 1  i < j  3. Make a
+table of each of these values.
+## (c)
+Consider a training sample of size 20 by generating 10 observations from f1, and
+10 observations from f2. Take d = 2; 5; 10; 20; 50; 100; 200 and 500. Compute the mis-
+classication rate for 1NN, kernel discriminant analysis, SVM with linear and radial basis
+function kernels and the Bayes' classier, and plot them w.r.t. d for the following proba-
+bility distributions:
+#### 1. Nd(0_{d}; I_{d}) and Nd((1, 0_{d-1}) ; 1/4Id).
+#### 2. Nd(0_{d}; I_{d}) and Nd(1_{d}; 1/4I_{d}).
+#### 3. Nd(0_{d}; I_{d}) and Nd(0d; 1/4I_{d}).
