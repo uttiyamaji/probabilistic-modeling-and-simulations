@@ -2,9 +2,9 @@
 
 ## Beta - binomial models for rate for each state
 The prior mortality rate is estimated empirically from the whole data, then the posterior distributions, credible intervals are estimated for each state separately 
-prior : beta \\
-likelohood: Bonomial \\
-pposterior: beta \\
+prior : beta,
+likelohood: Bonomial,
+pposterior: beta
 
 # Some well known probability problems solved using simulations
 
