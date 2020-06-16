@@ -1,3 +1,8 @@
+# Estimating the mortality rate of COVID 19 in India using Empirical bayes 
+
+## Beta - binomial models for rate for each state
+
+
 # Some well known probability problems solved using simulations
 
 ## Problem 1: Banach Matchbox Problem
