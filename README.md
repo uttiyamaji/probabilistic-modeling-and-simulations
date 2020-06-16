@@ -1,4 +1,4 @@
-# Estimating the mortality rate of COVID 19 in India using Empirical bayes 
+# Estimating the mortality rate of COVID 19 in India using Empirical Bayes 
 
 ## Beta - binomial models for rate for each state
 
