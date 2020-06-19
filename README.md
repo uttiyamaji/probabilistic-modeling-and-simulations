@@ -32,6 +32,8 @@ memory is so short that he forgets that he has already visited A. Next time he
 chooses again between others capitals, and so on. Find the expected no. of 
 journeys required to visit all the cities.
 
+# Bayesian Logistic Regression
+
 # Studying curse of Dimensionality
 ## (a) 
 Draw a sample of size 20 from Nd(0d; Id), and compute the length of each of the
