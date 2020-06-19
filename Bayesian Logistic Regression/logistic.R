@@ -1,3 +1,5 @@
+# Any dataset can be used here 
+
 set.seed(123)
 
 dat <- read.table("http://home.iitk.ac.in/~dootika/assets/course/Log_data/181164.txt",header = F)
