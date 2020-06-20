@@ -33,4 +33,4 @@ chooses again between others capitals, and so on. Find the expected no. of
 journeys required to visit all the cities.
 
 # Bayesian Logistic Regression
-
+Estimating the posterior distribution of the parameters using Metropolis-Hastings algorithm
