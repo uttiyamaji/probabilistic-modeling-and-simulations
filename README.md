@@ -37,4 +37,4 @@ Estimating the posterior distribution of the parameters using Metropolis-Hasting
 
 # Visualising Mandelbrot sets using python
 The parameters of the main function can be tweaked to visualise various parts of the Mandelbrot set \
-Code taken from: Make your own Mandelbrot bt Tariq Rashid
+Code taken from: Make your own Mandelbrot by Tariq Rashid
