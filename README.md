@@ -34,3 +34,7 @@ journeys required to visit all the cities.
 
 # Bayesian Logistic Regression
 Estimating the posterior distribution of the parameters using Metropolis-Hastings algorithm
+
+# Visualising Mandelbrot sets using python
+The parameters of the main function can be tweaked to visualise various parts of the Mandelbrot set \
+Code taken from: Make your own Mandelbrot bt Tariq Rashid
